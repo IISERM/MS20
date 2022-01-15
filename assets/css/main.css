@@ -29,8 +29,10 @@
 	.h-caption h4 { color:#382526; font-size: 16px; font-weight: bold; margin-bottom:20px; }
 	.h-body { }
 
-.SubjectNameOn {background-color: rgb(180, 179, 179); height: 40px; font-size: large; font-weight: bold; text-align: center; vertical-align: middle; display: table-cell; line-height: 43px;}
-.SubjectNameOff {background-color: rgb(180, 179, 179); height: 40px; font-size: large; font-weight: normal; text-align: center; vertical-align: middle; display: table-cell; line-height: 43px;}
+.SubjectNameOn {background-color: rgb(180, 179, 179); height: 40px; font-size: large; font-weight: bold; text-align: center; vertical-align: middle; display: table-cell; line-height: 43px; color: #181015;}
+a:link{color: #181015;}
+a:visited{color: #181015;}
+.SubjectNameOff {background-color: rgb(180, 179, 179); height: 40px; font-size: large; font-weight: normal; text-align: center; vertical-align: middle; display: table-cell; line-height: 43px; color: #181015;}
 
 
 /* Typography */
