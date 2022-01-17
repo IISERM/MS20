@@ -1,5 +1,5 @@
 /* Header */
-#head { background:#181015 url( ../images/bg_header.jpg) no-repeat; background-size: cover; min-height:520px; text-align: center; padding-top:240px; color:white; font-family:"Clarkson", Helvetica, sans-serif; font-weight:500; }
+#head { background:#181015 url( ../images/bg_header.png) no-repeat; background-size: cover; min-height:520px; text-align: center; padding-top:240px; color:white; font-family:"Clarkson", Helvetica, sans-serif; font-weight:500; }
 #head.secondary { height:100px; min-height: 100px; padding-top:0px; }
 	#head .lead { font-family:"Clarkson", Helvetica, sans-serif; font-size:72px; font-weight:500; margin-bottom:6px; color:white; line-height:1.15em; }
 	#head .tagline { color:rgba(255,255,255); margin-bottom:25px; }
